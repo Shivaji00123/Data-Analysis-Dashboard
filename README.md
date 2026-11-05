@@ -11,5 +11,5 @@ The dataset for this project was obtained from a publicly available online sourc
 
 **Tools Used:**Microsoft Excel, SQL Server, Power BI.
 
-Track total revenue, total orders, and units sold to understand the overall performance
+
 
