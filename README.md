@@ -44,6 +44,9 @@ Downloaded the dataset in CSV/Excel format.
 - Added relevant titles, labels, borders, and formatting.
 - Enabled interactive filtering to explore business performance.
 
+## Dashboard 
+<img width="737" height="413" alt="Dashboard" src="https://github.com/user-attachments/assets/6f4f13de-c15a-46ed-ad26-b4fbec80f42f" />
+
 
 
 
