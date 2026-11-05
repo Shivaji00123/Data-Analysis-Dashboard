@@ -47,6 +47,14 @@ Downloaded the dataset in CSV/Excel format.
 ## Dashboard 
 <img width="737" height="413" alt="Dashboard" src="https://github.com/user-attachments/assets/6f4f13de-c15a-46ed-ad26-b4fbec80f42f" />
 
+## Project insight
+The West region has recorded the highest sales compared to all other regions.
+Within the West region, Maharashtra contributes more sales than Gujarat.
+Samsung is the highest-selling brand, with products such as cameras, TVs, and laptops contributing to its sales.
+
+## Conclusion
+Focus on expanding sales in the West region.Maintain strong sales performance in Maharashtra.Promote Samsung products through targeted marketing campaigns.
+
 
 
 
