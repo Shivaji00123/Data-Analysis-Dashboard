@@ -15,4 +15,17 @@ Microsoft Excel, SQL Server, Power BI.
 ## Dataset used 
 - <a href="https://github.com/Shivaji00123/Data-Analysis-Dashboard/blob/main/Electronic%20Sales%20data%20(2).xlsx">Dataset</a>
 
+## Questions (KPIs)
+- Which electronic product generates the highest revenue?
+- Which product has the highest quantity sold?
+- Which products have the lowest sales?
+- Which city generates the highest revenue?
+- Which sales channel performs better: Online or Offline?
+- Which month has the highest sales?
+- Which month has the lowest sales?
+- Who are the top 10 customers based on revenue?
+- Which product category contributes the most revenue?
+- What is the total revenue generated?
+- What is the total sales quantity?
 
+- Dashboard Interaction <a href="https://github.com/Shivaji00123/Data-Analysis-Dashboard/blob/main/Dashboard.png">View Dashboard</a>
