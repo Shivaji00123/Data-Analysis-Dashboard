@@ -9,7 +9,8 @@ Track total revenue, total orders, and units sold to understand the overall perf
 
 The dataset for this project was obtained from a publicly available online source. It was downloaded in Excel/CSV format and imported into SQL Server for data cleaning and preprocessing. After cleaning, the data was imported into Power BI to create interactive dashboards and identify important business insights.
 
-##Tools Used: Microsoft Excel, SQL Server, Power BI.
+##Tools Used
+Microsoft Excel, SQL Server, Power BI.
 
 
 
