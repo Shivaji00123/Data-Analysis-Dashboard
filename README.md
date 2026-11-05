@@ -53,7 +53,9 @@ Within the West region, Maharashtra contributes more sales than Gujarat.
 Samsung is the highest-selling brand, with products such as cameras, TVs, and laptops contributing to its sales.
 
 ## Conclusion
-Focus on expanding sales in the West region.Maintain strong sales performance in Maharashtra.Promote Samsung products through targeted marketing campaigns.
+Focus on expanding sales in the West region.
+Maintain strong sales performance in Maharashtra.
+Promote Samsung products through targeted marketing campaigns.
 
 
 
