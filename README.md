@@ -31,6 +31,8 @@ Microsoft Excel, SQL Server, Power BI.
 - Dashboard Interaction <a href="https://github.com/Shivaji00123/Data-Analysis-Dashboard/blob/main/Dashboard.png">View Dashboard</a>
 
 ## Process
+- Collected an electronic products sales dataset from a publicly available online source.
+Downloaded the dataset in CSV/Excel format.
 - Imported the raw dataset into SQL Server.
 - Checked and handled NULL and duplicate values.
 - Corrected incorrect data formats and inconsistent entries.
