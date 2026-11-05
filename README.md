@@ -12,5 +12,7 @@ The dataset for this project was obtained from a publicly available online sourc
 ### Tools Used
 Microsoft Excel, SQL Server, Power BI.
 
+## Dataset used 
+- <a href="https://github.com/Shivaji00123/Data-Analysis-Dashboard/blob/main/Electronic%20Sales%20data%20(2).xlsx">Dataset</a>
 
 
