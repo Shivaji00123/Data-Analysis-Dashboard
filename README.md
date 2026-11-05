@@ -29,3 +29,18 @@ Microsoft Excel, SQL Server, Power BI.
 - What is the total sales quantity?
 
 - Dashboard Interaction <a href="https://github.com/Shivaji00123/Data-Analysis-Dashboard/blob/main/Dashboard.png">View Dashboard</a>
+
+## Process
+- Imported the raw dataset into SQL Server.
+- Checked and handled NULL and duplicate values.
+- Corrected incorrect data formats and inconsistent entries.
+- Imported the cleaned dataset into Power BI.
+- Create new columns in Power BI in new measures for profit, profit percentage, sales etc.
+- Designed an interactive dashboard with a clean and professional layout.
+- Organized charts and KPIs for easy understanding.
+- Added relevant titles, labels, borders, and formatting.
+- Enabled interactive filtering to explore business performance.
+
+
+
+
