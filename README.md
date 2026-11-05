@@ -33,6 +33,7 @@ Microsoft Excel, SQL Server, Power BI.
 ## Process
 - Collected an electronic products sales dataset from a publicly available online source.
 Downloaded the dataset in CSV/Excel format.
+- Examine that data in Microsoft Excel
 - Imported the raw dataset into SQL Server.
 - Checked and handled NULL and duplicate values.
 - Corrected incorrect data formats and inconsistent entries.
